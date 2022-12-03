@@ -496,14 +496,14 @@ body {
   display: block;
   width: 100%;
   height: 12rem;
-  background-image: url("/images/bg-section-top-mobile-1.svg");
+  background-image: url("/huddle-landing-page-curved-sections/images/bg-section-top-mobile-1.svg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: top left;
 }
 @media (min-width: 768px) {
   .top-image {
-    background-image: url("/images/bg-section-top-desktop-1.svg");
+    background-image: url("/huddle-landing-page-curved-sections/images/bg-section-top-desktop-1.svg");
   }
 }
 
@@ -511,7 +511,7 @@ body {
   display: block;
   width: 100%;
   height: 12rem;
-  background-image: url("/images/bg-section-bottom-mobile-1.svg");
+  background-image: url("/huddle-landing-page-curved-sections/images/bg-section-bottom-mobile-1.svg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: bottom right;
@@ -519,7 +519,7 @@ body {
 }
 @media (min-width: 768px) {
   .bottom-image {
-    background-image: url("/images/bg-section-bottom-desktop-1.svg");
+    background-image: url("/huddle-landing-page-curved-sections/images/bg-section-bottom-desktop-1.svg");
   }
 }
 
